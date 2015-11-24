@@ -1,0 +1,21 @@
+<?php
+return array(
+        'admin'=>__APP__."/BlogAdmin/",
+        'Menu'=>array(
+            '分类列表'=>array(
+                '首页楼层数据'=>'http://',
+                '菜单分类'=>'http://127.0.0.1/BlogAdmin/Column/column/',
+                '栏目分类'=>'http://',
+            ),
+            '博文列表'=>array(
+                '抓取新闻'=>'http://',
+                '博客新闻'=>'http://',
+            ),
+            '图片列表'=>array(
+                '身边外拍'=>'http://',
+                '美图欣赏'=>'http://',
+            ),
+            '午后时光'=>'http://',
+            '留言列表'=>'http://',
+        )
+);
